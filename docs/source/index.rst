@@ -1,22 +1,26 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to the FreePBX Community Documentation Project
+=====================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This documentation is a community-driven effort to provide comprehensive information and guidance on the FreePBX telephony system.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Important Notes**
 
-.. note::
+* This documentation is **not** officially supported by, authorized by, or affiliated with Sangoma Technologies, developers of FreePBX. 
+* All content is released under a Creative Commons license CC BY-SA.
 
-   This project is under active development.
+**We Need Your Help!**
 
-Contents
---------
+The FreePBX Community Documentation Project thrives on contributions from users like you. If you have knowledge to share, find errors, or want to suggest improvements:
+
+* **Submit a Pull Request (PR):** If you're familiar with Git and reStructuredText, this is the most direct way to contribute. (Provide a link to your project's repository where users can find instructions).
+* **Other Ways to Contribute:** (Add any other channels you will have for feedback and contributions, e.g., a dedicated forum section).
+
+**Table of Contents**
 
 .. toctree::
+   :maxdepth: 2 
+   :caption: Contents:
 
-   usage
-   api
+   getting_started
+   tutorials
+   <other filenames> 
